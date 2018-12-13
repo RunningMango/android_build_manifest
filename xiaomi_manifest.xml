@@ -10,7 +10,7 @@
 
 <!-- BUILD MANIFEST -->
 
-	<project name="android_build_manifest" path="repo/local_manifest" remote="sdm660" revision="pe-9.0" />
+	<project name="android_build_manifest" path="repo/local_manifest" remote="sdm660" revision="liquid" />
 	<linkfile src="xiaomi_manifest.xml" dest="repo/local_manifest/local_manifest.xml"/>
 
 <!-- BUILD MANIFEST -->
@@ -18,14 +18,11 @@
 
 <!-- XIAOMI MANIFEST -->
 
-  <!-- devicesettings res -->
-  	<project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="lineageos" revision="lineage-16.0" />
-
   <!-- kernel -->
 	<project name="android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="sdm660" revision="cr-7.0"/>
 
   <!-- jasmine-->
-	<project name="android_device_xiaomi_jasmine" path="device/xiaomi/jasmine" remote="sdm660" revision="pe-9.0"/>
+	<project name="android_device_xiaomi_jasmine" path="device/xiaomi/jasmine" remote="sdm660" revision="liquid"/>
 
   <!-- Common-->
 	<project name="android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="sdm660" revision="los-16.0"/>
