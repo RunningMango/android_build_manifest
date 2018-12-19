@@ -11,7 +11,7 @@
 <!-- BUILD MANIFEST -->
 
 	<project name="android_build_manifest" path="repo/local_manifest" remote="sdm660" revision="crandroid-9.0" />
-	<linkfile src="xiaomi_manifest.xml" dest="repo/local_manifest/local_manifest.xml" />
+	<linkfile src="local_manifest.xml" dest="repo/local_manifest/local_manifest.xml" />
 
 <!-- BUILD MANIFEST -->
 
