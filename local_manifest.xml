@@ -17,9 +17,6 @@
 
 <!-- XIAOMI MANIFEST -->
 
-  <!-- Devicesettings res -->
-  	<project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="lineageos" revision="lineage-16.0" />
-
   <!-- Kernel -->
 	<project name="android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="sdm660" revision="cr-7.0" />
 
