@@ -30,8 +30,8 @@
 <!-- XIAOMI MANIFEST -->
 
   <!-- kernel -->
-	<project name="android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="sdm660" revision="kernel.lnx.4.4.r34-rel"/>
-	<project name="android_kernel_xiaomi_clover" path="kernel/xiaomi/clover" remote="sdm660" revision="kernel.lnx.4.4.r34-rel"/>
+	<project name="android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="sdm660" revision="master"/>
+	<project name="android_kernel_xiaomi_clover" path="kernel/xiaomi/clover" remote="sdm660" revision="master"/>
 
   <!-- clover -->
 	<project name="android_device_xiaomi_wayne" path="device/xiaomi/wayne" remote="sdm660" revision="havoc"/>
