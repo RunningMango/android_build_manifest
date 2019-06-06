@@ -49,7 +49,7 @@
   <!-- vendor -->
 	<project name="android_vendor_xiaomi_clover" path="vendor/xiaomi/clover" remote="sdm660" revision="master" />
 	<project name="android_vendor_xiaomi_wayne" path="vendor/xiaomi/wayne" remote="sdm660" revision="master" />
-  <project name="android_device_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" remote="sdm660" revision="master" />
+        <project name="android_vendor_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" remote="sdm660" revision="master" />
 
   <project name="android_vendor_xiaomi_Miuicamera" path="vendor/xiaomi/MiuiCamera" remote="sdm660" revision="master" />
   <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="lineageos" revision="lineage-16.0" />
