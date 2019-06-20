@@ -24,13 +24,13 @@
 	<project name="android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="sdm660" revision="master" />
 
   <!-- Jasmine-->
-	<project name="android_device_xiaomi_jasmine" path="device/xiaomi/jasmine" remote="sdm660" revision="los-16.0" />
+	<project name="android_device_xiaomi_jasmine" path="device/xiaomi/jasmine" remote="sdm660" revision="crDroid" />
 	
   <!-- Wayne-->
 	<project name="android_device_xiaomi_wayne" path="device/xiaomi/wayne" remote="sdm660" revision="los-16.0" />
 
   <!-- Common-->
-	<project name="android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="sdm660" revision="los-16.0" />
+	<project name="android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="sdm660" revision="havoc" />
 
   <!-- Vendor -->
 	<project name="android_vendor_xiaomi_jasmine" path="vendor/xiaomi/jasmine" remote="sdm660" revision="master" />
